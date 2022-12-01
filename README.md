@@ -14,7 +14,7 @@ pipenv install --three
 // 若遇到pygraphviz安裝失敗，則嘗試下面這行
 sudo apt-get install graphviz graphviz-dev
 ```
-3. 從`.env.sample`產生出一個`.env`，並填入以下四個資訊
+3. 從`.env.sample`產生出一個`.env`，並填入以下個資訊
 
 - Line
     - LINE_CHANNEL_SECRET
