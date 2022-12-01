@@ -61,5 +61,8 @@ python3 app.py
 - lose_money_result: 遺失金額結果
 - information: 警員資訊
 
+### bonus
+- Deploy on heroku
+![](https://img.onl/uycMH8)
 
 
