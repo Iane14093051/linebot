@@ -42,13 +42,27 @@ python3 app.py
 - 問卷調查（line api)
 - 加入好友訊息（line api）
 ## 使用示範
+
+### 加入好友訊息
+![](https://img.onl/i9GbSN）
+
+### 報案
+![](https://img.onl/w4ED3H）
+ 
 ### 幫助老人家
+![](https://img.onl/VzluYf）
 
 ### 警員資訊
+![](https://img.onl/2TLuzd）
 
 ### 遺失錢財
+![](https://img.onl/oJovVB）
 
 ### 派出所位置
+![](https://img.onl/Zs9qQ0）
+
+### 問卷調查
+![](https://img.onl/TBX4Hc）
 
 ## FSM
 ![](https://img.onl/1zBDsZ)
