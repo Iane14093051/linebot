@@ -38,7 +38,9 @@ python3 app.py
 - `幫助老人家`
 - `警員資訊`
 - `遺失錢財`
-- `派出所位置`    
+- `派出所位置`
+- 問卷調查（line api)
+- 加入好友訊息（line api）
 ## 使用示範
 ### 幫助老人家
 
@@ -68,5 +70,7 @@ python3 app.py
 - Line api
 
 - Image
+
+- Video
 
 
