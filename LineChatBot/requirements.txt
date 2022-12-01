@@ -70,7 +70,6 @@ pipenv==2022.11.25
 pipreqs==0.4.11
 platformdirs==2.5.4
 pluggy==1.0.0
-protobuf==4.21.9
 ptyprocess==0.7.0
 py==1.11.0
 pycairo==1.16.2
