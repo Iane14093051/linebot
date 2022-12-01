@@ -65,4 +65,8 @@ python3 app.py
 - Deploy on heroku
 ![](https://img.onl/uycMH8)
 
+- Line api
+
+- Image
+
 
