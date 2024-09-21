@@ -6,12 +6,12 @@ Welcome to the Police Station in Front of Kameari Park in Katsushika Ward! We ar
 ## Usage Instructions
 1. Install `pipenv`
 ```shell
-pip3 install `pipenv`
+pip3 install pipenv
 ```
 2. Install the required packages
 ```shell
 pipenv install --three
-// If you encounter issues installing `pygraphviz`, try the following command:
+// If you encounter issues installing pygraphviz, try the following command:
 sudo apt-get install graphviz graphviz-dev
 ```
 3. Generate a `.env file` from `.env.sample` and fill in the following information:
