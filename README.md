@@ -77,8 +77,4 @@ python3 app.py
 - lose_money_result: Result of lost amount
 - information: Officer information
 
-### bonus
-- Deploy on heroku
-![](https://img.onl/uycMH8)
-
 
